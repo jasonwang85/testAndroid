@@ -13,8 +13,8 @@ repositories {
 }
 
 android {
-    compileSdkVersion 20
-    buildToolsVersion "20.0.0"
+    compileSdkVersion 21
+    buildToolsVersion "22.0.1"
 
     defaultConfig {
         applicationId "com.ci.testandroid.app"
